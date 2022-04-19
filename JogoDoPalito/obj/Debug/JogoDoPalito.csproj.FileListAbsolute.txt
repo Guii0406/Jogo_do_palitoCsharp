@@ -1,0 +1,54 @@
+C:\Users\User\source\repos\JogoDoPalito\JogoDoPalito\bin\Debug\JogoDoPalito.exe.config
+C:\Users\User\source\repos\JogoDoPalito\JogoDoPalito\bin\Debug\JogoDoPalito.exe
+C:\Users\User\source\repos\JogoDoPalito\JogoDoPalito\bin\Debug\JogoDoPalito.pdb
+C:\Users\User\source\repos\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.csprojAssemblyReference.cache
+C:\Users\User\source\repos\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.Form1.resources
+C:\Users\User\source\repos\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.Properties.Resources.resources
+C:\Users\User\source\repos\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.csproj.GenerateResource.cache
+C:\Users\User\source\repos\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.exe
+C:\Users\User\source\repos\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.pdb
+C:\Users\User\Desktop\Trabalho 2 bim\JogoDoPalito\JogoDoPalito\bin\Debug\JogoDoPalito.exe.config
+C:\Users\User\Desktop\Trabalho 2 bim\JogoDoPalito\JogoDoPalito\bin\Debug\JogoDoPalito.exe
+C:\Users\User\Desktop\Trabalho 2 bim\JogoDoPalito\JogoDoPalito\bin\Debug\JogoDoPalito.pdb
+C:\Users\User\Desktop\Trabalho 2 bim\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Trabalho 2 bim\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.Form1.resources
+C:\Users\User\Desktop\Trabalho 2 bim\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.Properties.Resources.resources
+C:\Users\User\Desktop\Trabalho 2 bim\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Trabalho 2 bim\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.exe
+C:\Users\User\Desktop\Trabalho 2 bim\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.pdb
+C:\Users\User\Desktop\Trabalho 2 bim - Copia\JogoDoPalito\JogoDoPalito\bin\Debug\JogoDoPalito.exe.config
+C:\Users\User\Desktop\Trabalho 2 bim - Copia\JogoDoPalito\JogoDoPalito\bin\Debug\JogoDoPalito.exe
+C:\Users\User\Desktop\Trabalho 2 bim - Copia\JogoDoPalito\JogoDoPalito\bin\Debug\JogoDoPalito.pdb
+C:\Users\User\Desktop\Trabalho 2 bim - Copia\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Trabalho 2 bim - Copia\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.Form1.resources
+C:\Users\User\Desktop\Trabalho 2 bim - Copia\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.Properties.Resources.resources
+C:\Users\User\Desktop\Trabalho 2 bim - Copia\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Trabalho 2 bim - Copia\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.exe
+C:\Users\User\Desktop\Trabalho 2 bim - Copia\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.pdb
+C:\Users\User\Desktop\Trabalho 2 bim - Sem metodos - Copia\JogoDoPalito\JogoDoPalito\bin\Debug\JogoDoPalito.exe.config
+C:\Users\User\Desktop\Trabalho 2 bim - Sem metodos - Copia\JogoDoPalito\JogoDoPalito\bin\Debug\JogoDoPalito.exe
+C:\Users\User\Desktop\Trabalho 2 bim - Sem metodos - Copia\JogoDoPalito\JogoDoPalito\bin\Debug\JogoDoPalito.pdb
+C:\Users\User\Desktop\Trabalho 2 bim - Sem metodos - Copia\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Trabalho 2 bim - Sem metodos - Copia\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.Form1.resources
+C:\Users\User\Desktop\Trabalho 2 bim - Sem metodos - Copia\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.Properties.Resources.resources
+C:\Users\User\Desktop\Trabalho 2 bim - Sem metodos - Copia\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Trabalho 2 bim - Sem metodos - Copia\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.exe
+C:\Users\User\Desktop\Trabalho 2 bim - Sem metodos - Copia\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.pdb
+C:\Users\User\Desktop\Trabalho 2 bim - Com parametros\JogoDoPalito\JogoDoPalito\bin\Debug\JogoDoPalito.exe.config
+C:\Users\User\Desktop\Trabalho 2 bim - Com parametros\JogoDoPalito\JogoDoPalito\bin\Debug\JogoDoPalito.exe
+C:\Users\User\Desktop\Trabalho 2 bim - Com parametros\JogoDoPalito\JogoDoPalito\bin\Debug\JogoDoPalito.pdb
+C:\Users\User\Desktop\Trabalho 2 bim - Com parametros\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Trabalho 2 bim - Com parametros\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.Form1.resources
+C:\Users\User\Desktop\Trabalho 2 bim - Com parametros\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.Properties.Resources.resources
+C:\Users\User\Desktop\Trabalho 2 bim - Com parametros\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Trabalho 2 bim - Com parametros\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.exe
+C:\Users\User\Desktop\Trabalho 2 bim - Com parametros\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.pdb
+C:\Users\User\Desktop\Trabalho 2 bim - Com parametros - Copia\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Trabalho 2 bim - Com parametros - Copia\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.Form1.resources
+C:\Users\User\Desktop\Trabalho 2 bim - Com parametros - Copia\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.Properties.Resources.resources
+C:\Users\User\Desktop\Trabalho 2 bim - Com parametros - Copia\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Trabalho 2 bim - Com parametros - Copia\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.exe
+C:\Users\User\Desktop\Trabalho 2 bim - Com parametros - Copia\JogoDoPalito\JogoDoPalito\obj\Debug\JogoDoPalito.pdb
+C:\Users\User\Desktop\Trabalho 2 bim - Com parametros - Copia\JogoDoPalito\JogoDoPalito\bin\Debug\JogoDoPalito.exe.config
+C:\Users\User\Desktop\Trabalho 2 bim - Com parametros - Copia\JogoDoPalito\JogoDoPalito\bin\Debug\JogoDoPalito.exe
+C:\Users\User\Desktop\Trabalho 2 bim - Com parametros - Copia\JogoDoPalito\JogoDoPalito\bin\Debug\JogoDoPalito.pdb
